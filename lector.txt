@@ -1,0 +1,1 @@
+lector es un archivo para txt
