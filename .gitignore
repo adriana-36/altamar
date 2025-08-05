@@ -1,0 +1,14 @@
+# Ignorar archivos y carpetas innecesarios
+*.log
+*.tmp
+*.bak
+.DS_Store
+node_modules/
+.env
+.vscode/
+.idea/
+*.exe
+*.zip
+*.mp4
+*.png
+*.jpg
